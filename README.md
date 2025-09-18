@@ -62,7 +62,7 @@ Workflow: Import from suppliers → Manage stock → Sell to customers → Handl
 | Sales Order |<img width="622" height="395" alt="image" src="https://github.com/user-attachments/assets/67f269e9-6f06-4bab-9693-b8809d1e0a76"/>|
 | Invoice |<img width="605" height="401" alt="image" src="https://github.com/user-attachments/assets/5ec3bedf-c56c-40e0-9a34-daed67422c69"/>|
 | Inventory |<img width="956" height="238" alt="image" src="https://github.com/user-attachments/assets/9315ec3f-e489-4cd7-a254-0de516818f69"/>|
-| Reports |<img width="955" height="398" alt="image" src="https://github.com/user-attachments/assets/926df98e-9c59-4c00-a96f-b87185974452"/>|
+| Dashboard |<img width="955" height="398" alt="image" src="https://github.com/user-attachments/assets/926df98e-9c59-4c00-a96f-b87185974452"/>|
 
 ---
 
